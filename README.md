@@ -59,6 +59,6 @@ This project simulates a real-world quality control system in a manufacturing en
 ## 👩‍💻 Author
 
 **Kathia Borja**  
-Industrial Management Student | Data Analyst and Manufacturing Analytics Enthusiast  
+Industrial Management Student | Manufacturing Analytics Enthusiast  
 
 
